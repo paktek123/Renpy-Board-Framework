@@ -1,0 +1,1 @@
+{"layout": null, "orientation": "landscape", "package": "sample.com", "include_pil": false, "name": "project_s", "source": false, "icon_name": "p_s", "version": "1", "permissions": ["INTERNET", "VIBRATE"], "include_sqlite": false, "numeric_version": "1"}
